@@ -46,7 +46,7 @@
     "dep-check": "aegir dep-check -i rimraf -i ipfs-core-types"
   },
   "dependencies": {
-    "ipfs-core-types": "^0.7.0",
+    "ipfs-core-types": "^0.12.1",
     "multiformats": "^9.4.1"
   },
   "devDependencies": {
