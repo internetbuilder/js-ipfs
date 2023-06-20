@@ -42,7 +42,7 @@
     "ipfs-cli": "^0.8.0",
     "ipfs-core": "^0.10.0",
     "semver": "^7.3.2",
-    "update-notifier": "^5.0.0"
+    "update-notifier": "^6.0.0"
   },
   "devDependencies": {
     "@types/semver": "^7.3.4",
