@@ -40,7 +40,7 @@
     "ipfs-utils": "^8.1.4",
     "just-safe-set": "^2.2.1",
     "libp2p": "^0.32.0",
-    "libp2p-webrtc-star": "^0.23.0"
+    "libp2p-webrtc-star": "^0.24.0"
   },
   "devDependencies": {
     "aegir": "^34.0.2",
