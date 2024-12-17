@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "ipfs": "^0.57.0",
-    "vue": "^2.6.11"
+    "ipfs": "^0.66.1",
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "5.0.0-alpha.8",
